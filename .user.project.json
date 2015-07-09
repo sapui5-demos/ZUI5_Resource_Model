@@ -1,0 +1,28 @@
+{
+  "run": [
+    {
+      "filePath": "/ZUI5_Resource_Model/index.html",
+      "previewMode": 0,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "urlParameters": [],
+      "_metadata": {
+        "runnerId": "webapprunner",
+        "id": 2888038,
+        "displayName": "New Web Application 1"
+      }
+    },
+    {
+      "filePath": "/ZUI5_Types_Formatters_Filter_Sorter/index.html",
+      "previewMode": 0,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "urlParameters": [],
+      "_metadata": {
+        "runnerId": "webapprunner",
+        "id": 2934941,
+        "displayName": "New Web Application"
+      }
+    }
+  ]
+}
